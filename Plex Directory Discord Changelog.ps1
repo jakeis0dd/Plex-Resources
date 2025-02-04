@@ -1,6 +1,6 @@
 # Define the directories to monitor
 # For multiple directories use this format: $directories = @("C:\Movies", "C:\Kids Movies")
-$directories = @("C:\youl plex directory path goes here")
+$directories = @("C:\your plex directory path goes here")
 
 # Get the current date and time
 $dateTime = Get-Date -Format "yyyyMMdd_HHmmss"
